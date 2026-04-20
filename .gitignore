@@ -29,3 +29,8 @@ UPCOMING_CHANGELOG.md
 logs/
 *.bun-build
 tsconfig.tsbuildinfo
+opencode-serve*.log
+opencode-serve*.out.log
+opencode-serve*.err.log
+opencode-serve.out.log
+opencode-serve.err.log
